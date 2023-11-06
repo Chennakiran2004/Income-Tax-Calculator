@@ -25,4 +25,4 @@ The code calculates the tax amount based on these rules and prints the result fo
 
 By using this link you can check you tax on your amount and you can find the code at bottom of the page
 
-My Code Live link :- https://colab.research.google.com/?utm_source=scs-index#scrollTo=wV_kJazniEc-
+My Code Live link :- [https://colab.research.google.com/?utm_source=scs-index#scrollTo=wV_kJazniEc-](https://colab.research.google.com/drive/1049VvxZui9XUZB3_EH-1vO86XfzaYtju#scrollTo=wV_kJazniEc-&uniqifier=1)https://colab.research.google.com/drive/1049VvxZui9XUZB3_EH-1vO86XfzaYtju#scrollTo=wV_kJazniEc-&uniqifier=1
