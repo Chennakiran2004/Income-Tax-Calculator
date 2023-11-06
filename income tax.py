@@ -1,4 +1,12 @@
-income = int(input())
+while True:
+    try:
+        income = int(input("Please enter your taxable income in India: "))
+    except ValueError:
+        print("Sorry, We didn't understand that please enter taxable income as a number")
+        continue
+    else:
+        break
+
 print("-----------------------------------")
 print("Income of the Employee:", income)
 print("-----------------------------------")
