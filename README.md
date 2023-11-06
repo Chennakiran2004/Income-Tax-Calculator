@@ -23,6 +23,6 @@ If your income is above 1,500,000, you pay 30% tax on the amount over 1,500,000,
 The code calculates the tax amount based on these rules and prints the result for your income level.
 
 
-By using this link you can check you tax on your amount
+By using this link you can check tax on your amount
 
 My Code Live link :- [https://colab.research.google.com/?utm_source=scs-index#scrollTo=wV_kJazniEc-](https://colab.research.google.com/drive/1049VvxZui9XUZB3_EH-1vO86XfzaYtju#scrollTo=wV_kJazniEc-&uniqifier=1)https://colab.research.google.com/drive/1049VvxZui9XUZB3_EH-1vO86XfzaYtju#scrollTo=wV_kJazniEc-&uniqifier=1
